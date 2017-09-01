@@ -1,0 +1,5 @@
+E:\GitHub\practice\Practice_code\dowhile\bin\Debug\dowhile.exe.config
+E:\GitHub\practice\Practice_code\dowhile\bin\Debug\dowhile.exe
+E:\GitHub\practice\Practice_code\dowhile\bin\Debug\dowhile.pdb
+E:\GitHub\practice\Practice_code\dowhile\obj\Debug\dowhile.exe
+E:\GitHub\practice\Practice_code\dowhile\obj\Debug\dowhile.pdb

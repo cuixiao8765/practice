@@ -1,0 +1,6 @@
+E:\GitHub\practice\Practice_code\Practice_code\bin\Debug\Practice_code.exe.config
+E:\GitHub\practice\Practice_code\Practice_code\bin\Debug\Practice_code.exe
+E:\GitHub\practice\Practice_code\Practice_code\bin\Debug\Practice_code.pdb
+E:\GitHub\practice\Practice_code\Practice_code\obj\Debug\Practice_code.csprojResolveAssemblyReference.cache
+E:\GitHub\practice\Practice_code\Practice_code\obj\Debug\Practice_code.exe
+E:\GitHub\practice\Practice_code\Practice_code\obj\Debug\Practice_code.pdb

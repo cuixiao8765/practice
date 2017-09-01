@@ -1,0 +1,5 @@
+E:\GitHub\practice\Practice_code\foreach\bin\Debug\@foreach.exe.config
+E:\GitHub\practice\Practice_code\foreach\bin\Debug\@foreach.exe
+E:\GitHub\practice\Practice_code\foreach\bin\Debug\@foreach.pdb
+E:\GitHub\practice\Practice_code\foreach\obj\Debug\@foreach.exe
+E:\GitHub\practice\Practice_code\foreach\obj\Debug\@foreach.pdb

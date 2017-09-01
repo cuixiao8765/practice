@@ -1,0 +1,5 @@
+E:\GitHub\practice\Practice_code\while\bin\Debug\@while.exe.config
+E:\GitHub\practice\Practice_code\while\bin\Debug\@while.exe
+E:\GitHub\practice\Practice_code\while\bin\Debug\@while.pdb
+E:\GitHub\practice\Practice_code\while\obj\Debug\@while.exe
+E:\GitHub\practice\Practice_code\while\obj\Debug\@while.pdb

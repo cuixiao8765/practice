@@ -1,0 +1,6 @@
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\bin\Debug\Array_largest_lest_sum_average.exe.config
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\bin\Debug\Array_largest_lest_sum_average.exe
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\bin\Debug\Array_largest_lest_sum_average.pdb
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\obj\Debug\Array_largest_lest_sum_average.csprojResolveAssemblyReference.cache
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\obj\Debug\Array_largest_lest_sum_average.exe
+E:\GitHub\practice\Practice_code\Array_largest_lest_sum_average\obj\Debug\Array_largest_lest_sum_average.pdb

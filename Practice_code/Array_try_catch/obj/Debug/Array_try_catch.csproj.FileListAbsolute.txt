@@ -1,0 +1,6 @@
+E:\GitHub\practice\Practice_code\Array_try_catch\bin\Debug\Array_try_catch.exe.config
+E:\GitHub\practice\Practice_code\Array_try_catch\bin\Debug\Array_try_catch.exe
+E:\GitHub\practice\Practice_code\Array_try_catch\bin\Debug\Array_try_catch.pdb
+E:\GitHub\practice\Practice_code\Array_try_catch\obj\Debug\Array_try_catch.csprojResolveAssemblyReference.cache
+E:\GitHub\practice\Practice_code\Array_try_catch\obj\Debug\Array_try_catch.exe
+E:\GitHub\practice\Practice_code\Array_try_catch\obj\Debug\Array_try_catch.pdb
